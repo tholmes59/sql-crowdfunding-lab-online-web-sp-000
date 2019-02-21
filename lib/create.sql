@@ -13,11 +13,9 @@ CREATE TABLE users (
   age INTEGER,
 );
 
-CREATE TABLE projects (
+CREATE TABLE pledges (
   id INTEGER PRIMARY KEY,
-  title TEXT,
-  category TEXT,
-  funding_goal INTEGER,
-  start_date TEXT,
-  end_date TEXT 
+  amount INTEGER,
+  user_id INTEGER,
+  project_id INTEGER
 );
