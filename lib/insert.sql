@@ -47,4 +47,6 @@ INSERT INTO pledges (id, amount, user_id, project_id) VALUES
 (29, 230.00, 16, 6),
 (30, 450.00, 15, 5);
 
-
+def selects_the_titles_and_amount_over_goal_of_all_projects_that_have_met_their_funding_goal
+"Write your SQL query Here"
+end
