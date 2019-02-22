@@ -47,6 +47,4 @@ INSERT INTO pledges (id, amount, user_id, project_id) VALUES
 (29, 230.00, 16, 6),
 (30, 450.00, 15, 5);
 
-def selects_the_category_name_and_the_sum_total_of_the_all_its_pledges_for_the_books_category
-"Write your SQL query Here"
-end
+
